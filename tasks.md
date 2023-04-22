@@ -1,4 +1,8 @@
-- Data curation (explore data, how to split data they are too big) - https://www.tensorflow.org/tutorials/images/segmentation
+- Data curation - https://www.tensorflow.org/tutorials/images/segmentation
+  - Explore data
+  - How to split data
+  - Explore segmentation techniques 2D images
 - Check different architectures (eg Unet)
+- Divide different architectures and try to get results
 - Search for transfer learning for the encoder
 - Search how we can pick the best architecture 

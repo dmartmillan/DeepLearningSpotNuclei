@@ -2,7 +2,14 @@
   - Explore data
   - How to split data
   - Explore segmentation techniques 2D images
+  - Augmentation:
+    - Random cropping, scaling, resize, padding
 - Check different architectures (eg Unet)
-- Divide different architectures and try to get results
-- Search for transfer learning for the encoder
-- Search how we can pick the best architecture 
+  - Unet
+  - ResNet
+  - VGG
+  - Inception
+  - LinkNet
+  - Mask R-CNN
+  - FPN
+- Search for transfer learning for the encoder (MobileNetV2)

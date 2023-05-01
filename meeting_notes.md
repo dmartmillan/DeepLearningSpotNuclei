@@ -1,3 +1,11 @@
+## Week 10 - Monday 1
+
+Avoid padding. 
+Random cropping 
+Check grayscale backgound. 
+
+Test architectures as basic and another transfer learning (check the example). 
+
 ## Week 9 - Monday 24
  
 Self-learning (Unet, think about what could be the bottleneck) and transfer learning encode.

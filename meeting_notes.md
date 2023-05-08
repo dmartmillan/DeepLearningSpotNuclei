@@ -10,6 +10,8 @@ overlaping crop
 
 use DICE and IUO loss 
 
+exponential decay
+
 ## Week 10 - Monday 1
 
 Avoid padding. 

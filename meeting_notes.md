@@ -1,3 +1,11 @@
+## Week 11 - Monday 8
+
+grayscale + brighless ajust + cropping (structured)
+check validation images 
+comparing networks in the transfer learning (take the best and explore it)
+overlaping crop
+use DICE and IUO loss 
+
 ## Week 10 - Monday 1
 
 Avoid padding. 

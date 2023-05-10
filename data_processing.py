@@ -134,9 +134,8 @@ class data_grinder:
         self.data_dict['cal_masks'] = masks
 
     def list2array(self):
-        
         list_X =  self.data_dict['X']
-        len_X = len(list_X )
+        len_X = len(list_X)
         size_X = list_X[0].shape
         X_array = np.zeros((len_X, size_X[0], size_X[1], 3), dtype=np.float32)
         for i in range(len_X):

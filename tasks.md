@@ -15,6 +15,7 @@
 - Search for transfer learning for the encoder (MobileNetV2)
 
 - Task that we have done
+  - extra test stage 1 data from giving excel and join all masks together as one final combined mask
   - explore the data and use test 1 data set as validation set (Nucleus Density, color, brightness and dimension)
   - check different pre-processing method (scale, scale with padding, padding, cropping 'sliding window with overlap, average value will be chosen at overlapping area for mask rejoining')
   - gray scale (invert some images to make all images have black background), normalization to gray scale, and increase the contrast ration
